@@ -1,0 +1,1 @@
+Estimate contest models to determine the impact of height, weight and age on NHL team production. Conduct the analysis on both season-game and season-game goal observations. Compare the results and discuss roster design implications.
