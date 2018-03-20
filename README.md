@@ -1,4 +1,4 @@
-# SPMA 4P94 Winter 2107
+# SPMA 4P94 Winter 2017
 Sports Analytics
 
 ### Assessment rubric
@@ -23,10 +23,3 @@ Sports Analytics
 | 1      | Poorly organized with little documentation. |
 | 0      | Code no discernible.                     |
 
-
-
-# Resources
-
-## Introduction to Python and Panda
-
-https://github.com/fonnesbeck/statistical-analysis-python-tutorial
